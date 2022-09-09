@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nitesik.github.io/InteractiveRating/static/css/main.25d2ac19.css",
-    "main.js": "/nitesik.github.io/InteractiveRating/static/js/main.1c88675a.js",
-    "static/js/787.303b77ae.chunk.js": "/nitesik.github.io/InteractiveRating/static/js/787.303b77ae.chunk.js",
-    "static/media/Overpass-Black.ttf": "/nitesik.github.io/InteractiveRating/static/media/Overpass-Black.443263a5fcc35b6d228e.ttf",
-    "index.html": "/nitesik.github.io/InteractiveRating/index.html",
-    "main.25d2ac19.css.map": "/nitesik.github.io/InteractiveRating/static/css/main.25d2ac19.css.map",
-    "main.1c88675a.js.map": "/nitesik.github.io/InteractiveRating/static/js/main.1c88675a.js.map",
-    "787.303b77ae.chunk.js.map": "/nitesik.github.io/InteractiveRating/static/js/787.303b77ae.chunk.js.map"
+    "main.css": "/InteractiveRating/static/css/main.eabd64a9.css",
+    "main.js": "/InteractiveRating/static/js/main.cd71613d.js",
+    "static/js/787.303b77ae.chunk.js": "/InteractiveRating/static/js/787.303b77ae.chunk.js",
+    "static/media/Overpass-Black.ttf": "/InteractiveRating/static/media/Overpass-Black.443263a5fcc35b6d228e.ttf",
+    "index.html": "/InteractiveRating/index.html",
+    "main.eabd64a9.css.map": "/InteractiveRating/static/css/main.eabd64a9.css.map",
+    "main.cd71613d.js.map": "/InteractiveRating/static/js/main.cd71613d.js.map",
+    "787.303b77ae.chunk.js.map": "/InteractiveRating/static/js/787.303b77ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25d2ac19.css",
-    "static/js/main.1c88675a.js"
+    "static/css/main.eabd64a9.css",
+    "static/js/main.cd71613d.js"
   ]
 }
