@@ -1,0 +1,93 @@
+@font-face {
+  font-family: "Overpass";
+  src: url("./fonts/Overpass-Black.ttf");
+}
+
+.container {
+  height: 300px;
+  font-size: 15px;
+  width: 300px;
+  padding: 0%;
+  margin: 0;
+  background-color: hsl(213, 19%, 18%);
+  border-radius: 20px;
+  /* font-family: "Overpass"; */
+}
+
+.rating {
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template: 1fr 2fr 3fr / 1fr;
+}
+
+.logo svg {
+  margin: 15px 20px;
+  padding: 10px;
+  border: 1px solid hsl(213, 19%, 22%);
+  border-radius: 20px;
+  background-color: hsl(213, 19%, 22%);
+}
+.paragraph {
+  font-size: 12px;
+  margin-top: 10px;
+  color: hsl(217, 12%, 63%);
+  font-weight: lighter;
+}
+
+.number {
+  border: 1px solid hsl(213, 19%, 22%);
+  display: flex;
+  border-radius: 30px;
+  background-color: hsl(213, 19%, 22%);
+  padding: 10px;
+  height: 19px;
+  justify-content: center;
+  color: hsl(217, 12%, 63%);
+  width: 19px;
+  margin-top: 15px;
+}
+
+.submit {
+    display: flex;
+    font-size: 10px;
+    background-Color: hsl(25, 97%, 53%);
+    padding: 10px;
+    border-radius: 20px;
+    flex: 1;
+    justify-Content: center;
+    font-weight: lighter;
+    align-Content:center;
+    margin: 20px 20px;
+  }
+
+.submit:hover {
+  color: hsl(25, 97%, 53%);
+  background-color: white;
+  cursor: pointer;
+}
+
+.number:hover {
+  background-color: hsl(217, 12%, 63%);
+  color: white;
+  cursor: pointer;
+}
+
+.number:active {
+  background-color: hsl(25, 97%, 53%);
+          color: white;
+}
+
+.submitted {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  padding: 25px 15px;
+  align-items: center;
+  text-align: center;
+}
+
+.title {
+  font-weight: bold;
+} 
